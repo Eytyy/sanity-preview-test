@@ -1,7 +1,7 @@
 {
   "root": true,
   "api": {
-    "projectId": "uj2a9mdf",
+    "projectId": "6r5nbdps",
     "dataset": "production"
   },
   "project": {
@@ -21,7 +21,8 @@
     "asset-source-unsplash",
     "@sanity/vision"
   ],
-  "parts": [{
+  "parts": [
+    {
       "name": "part:@sanity/base/schema",
       "path": "./schemas/schema.js"
     },
